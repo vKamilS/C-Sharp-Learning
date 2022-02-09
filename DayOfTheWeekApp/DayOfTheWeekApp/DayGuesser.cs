@@ -46,6 +46,8 @@ namespace DayOfTheWeekApp
         public void PrintDayOfTheWeek()
         {
             Console.WriteLine("Dzień tygodnia, w którym się urodziłeś/aś to " + UserDayOfTheWeek.ToPolishString());
+            Console.WriteLine("Naciśnij enter, aby zakończyć");
+            Console.ReadLine();
         }
     }
 }

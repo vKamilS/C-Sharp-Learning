@@ -1,0 +1,12 @@
+C:\Users\sulkowk\OneDrive - Jacobs\Documents\C#\DayOfTheWeekApp\DayOfTheWeekApp.Core\bin\Release\net6.0\DayOfTheWeekApp.Core.deps.json
+C:\Users\sulkowk\OneDrive - Jacobs\Documents\C#\DayOfTheWeekApp\DayOfTheWeekApp.Core\bin\Release\net6.0\DayOfTheWeekApp.Core.dll
+C:\Users\sulkowk\OneDrive - Jacobs\Documents\C#\DayOfTheWeekApp\DayOfTheWeekApp.Core\bin\Release\net6.0\ref\DayOfTheWeekApp.Core.dll
+C:\Users\sulkowk\OneDrive - Jacobs\Documents\C#\DayOfTheWeekApp\DayOfTheWeekApp.Core\bin\Release\net6.0\DayOfTheWeekApp.Core.pdb
+C:\Users\sulkowk\OneDrive - Jacobs\Documents\C#\DayOfTheWeekApp\DayOfTheWeekApp.Core\obj\Release\net6.0\DayOfTheWeekApp.Core.csproj.AssemblyReference.cache
+C:\Users\sulkowk\OneDrive - Jacobs\Documents\C#\DayOfTheWeekApp\DayOfTheWeekApp.Core\obj\Release\net6.0\DayOfTheWeekApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sulkowk\OneDrive - Jacobs\Documents\C#\DayOfTheWeekApp\DayOfTheWeekApp.Core\obj\Release\net6.0\DayOfTheWeekApp.Core.AssemblyInfoInputs.cache
+C:\Users\sulkowk\OneDrive - Jacobs\Documents\C#\DayOfTheWeekApp\DayOfTheWeekApp.Core\obj\Release\net6.0\DayOfTheWeekApp.Core.AssemblyInfo.cs
+C:\Users\sulkowk\OneDrive - Jacobs\Documents\C#\DayOfTheWeekApp\DayOfTheWeekApp.Core\obj\Release\net6.0\DayOfTheWeekApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\sulkowk\OneDrive - Jacobs\Documents\C#\DayOfTheWeekApp\DayOfTheWeekApp.Core\obj\Release\net6.0\DayOfTheWeekApp.Core.dll
+C:\Users\sulkowk\OneDrive - Jacobs\Documents\C#\DayOfTheWeekApp\DayOfTheWeekApp.Core\obj\Release\net6.0\ref\DayOfTheWeekApp.Core.dll
+C:\Users\sulkowk\OneDrive - Jacobs\Documents\C#\DayOfTheWeekApp\DayOfTheWeekApp.Core\obj\Release\net6.0\DayOfTheWeekApp.Core.pdb

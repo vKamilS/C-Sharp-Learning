@@ -1,0 +1,7 @@
+C:\Users\sulkowk\OneDrive - Jacobs\Documents\C#\DayOfTheWeekApp\DayOfTheWeekApp\bin\Release\net6.0\publish\DayOfTheWeekApp.exe
+C:\Users\sulkowk\OneDrive - Jacobs\Documents\C#\DayOfTheWeekApp\DayOfTheWeekApp\bin\Release\net6.0\publish\DayOfTheWeekApp.dll
+C:\Users\sulkowk\OneDrive - Jacobs\Documents\C#\DayOfTheWeekApp\DayOfTheWeekApp\bin\Release\net6.0\publish\DayOfTheWeekApp.deps.json
+C:\Users\sulkowk\OneDrive - Jacobs\Documents\C#\DayOfTheWeekApp\DayOfTheWeekApp\bin\Release\net6.0\publish\DayOfTheWeekApp.runtimeconfig.json
+C:\Users\sulkowk\OneDrive - Jacobs\Documents\C#\DayOfTheWeekApp\DayOfTheWeekApp\bin\Release\net6.0\publish\DayOfTheWeekApp.pdb
+C:\Users\sulkowk\OneDrive - Jacobs\Documents\C#\DayOfTheWeekApp\DayOfTheWeekApp\bin\Release\net6.0\publish\DayOfTheWeekApp.Core.dll
+C:\Users\sulkowk\OneDrive - Jacobs\Documents\C#\DayOfTheWeekApp\DayOfTheWeekApp\bin\Release\net6.0\publish\DayOfTheWeekApp.Core.pdb
