@@ -1,0 +1,14 @@
+C:\Users\sulkowk\OneDrive - Jacobs\Documents\C#\FirstProgram\FirstProgram\FirstProgram\bin\Debug\net6.0\FirstProgram.exe
+C:\Users\sulkowk\OneDrive - Jacobs\Documents\C#\FirstProgram\FirstProgram\FirstProgram\bin\Debug\net6.0\FirstProgram.deps.json
+C:\Users\sulkowk\OneDrive - Jacobs\Documents\C#\FirstProgram\FirstProgram\FirstProgram\bin\Debug\net6.0\FirstProgram.runtimeconfig.json
+C:\Users\sulkowk\OneDrive - Jacobs\Documents\C#\FirstProgram\FirstProgram\FirstProgram\bin\Debug\net6.0\FirstProgram.dll
+C:\Users\sulkowk\OneDrive - Jacobs\Documents\C#\FirstProgram\FirstProgram\FirstProgram\bin\Debug\net6.0\ref\FirstProgram.dll
+C:\Users\sulkowk\OneDrive - Jacobs\Documents\C#\FirstProgram\FirstProgram\FirstProgram\bin\Debug\net6.0\FirstProgram.pdb
+C:\Users\sulkowk\OneDrive - Jacobs\Documents\C#\FirstProgram\FirstProgram\FirstProgram\obj\Debug\net6.0\FirstProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sulkowk\OneDrive - Jacobs\Documents\C#\FirstProgram\FirstProgram\FirstProgram\obj\Debug\net6.0\FirstProgram.AssemblyInfoInputs.cache
+C:\Users\sulkowk\OneDrive - Jacobs\Documents\C#\FirstProgram\FirstProgram\FirstProgram\obj\Debug\net6.0\FirstProgram.AssemblyInfo.cs
+C:\Users\sulkowk\OneDrive - Jacobs\Documents\C#\FirstProgram\FirstProgram\FirstProgram\obj\Debug\net6.0\FirstProgram.csproj.CoreCompileInputs.cache
+C:\Users\sulkowk\OneDrive - Jacobs\Documents\C#\FirstProgram\FirstProgram\FirstProgram\obj\Debug\net6.0\FirstProgram.dll
+C:\Users\sulkowk\OneDrive - Jacobs\Documents\C#\FirstProgram\FirstProgram\FirstProgram\obj\Debug\net6.0\ref\FirstProgram.dll
+C:\Users\sulkowk\OneDrive - Jacobs\Documents\C#\FirstProgram\FirstProgram\FirstProgram\obj\Debug\net6.0\FirstProgram.pdb
+C:\Users\sulkowk\OneDrive - Jacobs\Documents\C#\FirstProgram\FirstProgram\FirstProgram\obj\Debug\net6.0\FirstProgram.genruntimeconfig.cache

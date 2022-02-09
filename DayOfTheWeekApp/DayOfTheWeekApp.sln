@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DayOfTheWeekApp", "DayOfTheWeekApp\DayOfTheWeekApp.csproj", "{EB498C19-1540-4C80-8E5D-3985D6295D5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DayOfTheWeekApp.Core", "DayOfTheWeekApp.Core\DayOfTheWeekApp.Core.csproj", "{B689A335-5DDA-4447-86C8-D918065238D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB498C19-1540-4C80-8E5D-3985D6295D5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB498C19-1540-4C80-8E5D-3985D6295D5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB498C19-1540-4C80-8E5D-3985D6295D5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB498C19-1540-4C80-8E5D-3985D6295D5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B689A335-5DDA-4447-86C8-D918065238D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B689A335-5DDA-4447-86C8-D918065238D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B689A335-5DDA-4447-86C8-D918065238D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B689A335-5DDA-4447-86C8-D918065238D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18006F5E-83A5-48BD-9100-ADDDF0CC4286}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "eb498c19-1540-4c80-8e5d-3985d6295d5f": {
+      "ProjectGuid": "eb498c19-1540-4c80-8e5d-3985d6295d5f",
+      "DisplayName": "DayOfTheWeekApp",
+      "ColorIndex": 0
+    },
+    "b689a335-5dda-4447-86c8-d918065238d5": {
+      "ProjectGuid": "b689a335-5dda-4447-86c8-d918065238d5",
+      "DisplayName": "DayOfTheWeekApp.Core",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
