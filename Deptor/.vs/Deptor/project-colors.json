@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3ba8235e-706c-45b2-84c8-607e44397bb6": {
+      "ProjectGuid": "3ba8235e-706c-45b2-84c8-607e44397bb6",
+      "DisplayName": "Deptor",
+      "ColorIndex": 0
+    },
+    "74f005de-70eb-46e7-af1e-96cd6a225f51": {
+      "ProjectGuid": "74f005de-70eb-46e7-af1e-96cd6a225f51",
+      "DisplayName": "Deptor.Core",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
