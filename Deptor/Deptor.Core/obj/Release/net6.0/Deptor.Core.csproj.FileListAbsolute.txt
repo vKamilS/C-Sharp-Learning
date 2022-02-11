@@ -1,0 +1,12 @@
+C:\Users\sulkowk\OneDrive - Jacobs\Documents\C#\Deptor\Deptor.Core\bin\Release\net6.0\Deptor.Core.deps.json
+C:\Users\sulkowk\OneDrive - Jacobs\Documents\C#\Deptor\Deptor.Core\bin\Release\net6.0\Deptor.Core.dll
+C:\Users\sulkowk\OneDrive - Jacobs\Documents\C#\Deptor\Deptor.Core\bin\Release\net6.0\ref\Deptor.Core.dll
+C:\Users\sulkowk\OneDrive - Jacobs\Documents\C#\Deptor\Deptor.Core\bin\Release\net6.0\Deptor.Core.pdb
+C:\Users\sulkowk\OneDrive - Jacobs\Documents\C#\Deptor\Deptor.Core\obj\Release\net6.0\Deptor.Core.csproj.AssemblyReference.cache
+C:\Users\sulkowk\OneDrive - Jacobs\Documents\C#\Deptor\Deptor.Core\obj\Release\net6.0\Deptor.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sulkowk\OneDrive - Jacobs\Documents\C#\Deptor\Deptor.Core\obj\Release\net6.0\Deptor.Core.AssemblyInfoInputs.cache
+C:\Users\sulkowk\OneDrive - Jacobs\Documents\C#\Deptor\Deptor.Core\obj\Release\net6.0\Deptor.Core.AssemblyInfo.cs
+C:\Users\sulkowk\OneDrive - Jacobs\Documents\C#\Deptor\Deptor.Core\obj\Release\net6.0\Deptor.Core.csproj.CoreCompileInputs.cache
+C:\Users\sulkowk\OneDrive - Jacobs\Documents\C#\Deptor\Deptor.Core\obj\Release\net6.0\Deptor.Core.dll
+C:\Users\sulkowk\OneDrive - Jacobs\Documents\C#\Deptor\Deptor.Core\obj\Release\net6.0\ref\Deptor.Core.dll
+C:\Users\sulkowk\OneDrive - Jacobs\Documents\C#\Deptor\Deptor.Core\obj\Release\net6.0\Deptor.Core.pdb

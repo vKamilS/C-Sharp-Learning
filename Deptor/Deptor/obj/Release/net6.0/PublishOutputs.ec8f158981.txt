@@ -1,0 +1,7 @@
+C:\Users\sulkowk\OneDrive - Jacobs\Documents\C#\Deptor\Deptor\bin\Release\net6.0\publish\Deptor.exe
+C:\Users\sulkowk\OneDrive - Jacobs\Documents\C#\Deptor\Deptor\bin\Release\net6.0\publish\Deptor.dll
+C:\Users\sulkowk\OneDrive - Jacobs\Documents\C#\Deptor\Deptor\bin\Release\net6.0\publish\Deptor.deps.json
+C:\Users\sulkowk\OneDrive - Jacobs\Documents\C#\Deptor\Deptor\bin\Release\net6.0\publish\Deptor.runtimeconfig.json
+C:\Users\sulkowk\OneDrive - Jacobs\Documents\C#\Deptor\Deptor\bin\Release\net6.0\publish\Deptor.pdb
+C:\Users\sulkowk\OneDrive - Jacobs\Documents\C#\Deptor\Deptor\bin\Release\net6.0\publish\Deptor.Core.dll
+C:\Users\sulkowk\OneDrive - Jacobs\Documents\C#\Deptor\Deptor\bin\Release\net6.0\publish\Deptor.Core.pdb
