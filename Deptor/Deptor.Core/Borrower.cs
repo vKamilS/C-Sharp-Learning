@@ -6,5 +6,10 @@
 
         public decimal Amount { get; set; }
 
+        public override string ToString()
+        {
+            return Name+";"+Amount.ToString();
+        }
+
     }
 }

@@ -4,30 +4,69 @@
     {
         private List<Borrower> Borrowers { get; set; }
 
+        private string FileName { get; set; } = "borrowers.txt";
+
+
+
         public BorrowerMenager()
         {
             Borrowers = new List<Borrower>();
+
+            if (!File.Exists(FileName))
+            {
+                return;
+            }
+
+            var fileLines = File.ReadAllLines(FileName);
+
+            foreach (var line in fileLines)
+            {
+                var lineItems = line.Split(';');
+
+                if (decimal.TryParse(lineItems[1], out var amountInDecimal))
+                {
+                    AddBorrower(lineItems[0], amountInDecimal, false);
+                }
+            }
         }
-        public void AddBorrower(string name, decimal amount)
+        public void AddBorrower(string name, decimal amount, bool shouldSaveToFile = true)
         {
             var borrower = new Borrower
             {
                 Name = name,
                 Amount = amount,
             };
-            Borrowers.Add(borrower);
+            
+                Borrowers.Add(borrower);
+
+            if (shouldSaveToFile)
+            {
+                File.WriteAllLines(FileName, new List<string> { borrower.ToString() });
+            }
               
         }
 
-        public void DeleteBorrower(string name)
+        public void DeleteBorrower(string name, bool shouldSaveToFile = true)
         {
             foreach (var borrower in Borrowers)
             {
                 if (borrower.Name == name)
                 {
                     Borrowers.Remove(borrower);
-                    return;
+                    break;
                 }
+            }
+
+            if (shouldSaveToFile)
+            {
+                var borrowerToSave = new List<string>();
+
+                foreach (var borrower in Borrowers)
+                {
+                    borrowerToSave.Add(borrower.ToString());
+                }
+                File.Delete(FileName);
+                File.WriteAllLines(FileName, borrowerToSave);
             }
 
         }
