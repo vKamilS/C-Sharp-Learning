@@ -1,0 +1,3 @@
+Józek;70
+Romek;25
+Antek;95

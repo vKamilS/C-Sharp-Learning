@@ -23,7 +23,7 @@ namespace Deptor
             while (!decimal.TryParse(userAmount, out amountInDecimal))
             {
                 Console.WriteLine("Podano niepoprawną kwotę");
-                Console.WriteLine("Podaj kwotę długu:");
+                Console.WriteLine("Podaj kwotę jeszcze raz:");
                 userAmount = Console.ReadLine();
             }
             
@@ -38,6 +38,24 @@ namespace Deptor
             BorrowerMenager.DeleteBorrower(userName);
 
             Console.WriteLine("Udało się usunąć dłużnika.");
+        }
+
+        public void PartDeptCancetation()
+        {
+            Console.WriteLine("Podaj imię dłużnika, któremu chcesz anulować część długu");
+            var name = Console.ReadLine();
+            Console.WriteLine("Podaj kwotę długu, którą chcesz anulować");
+            var userAmount = Console.ReadLine();
+            var amountInDecimal = default(decimal);
+
+            while (!decimal.TryParse(userAmount, out amountInDecimal))
+            {
+                Console.WriteLine("Podano niepoprawną kwotę");
+                Console.WriteLine("Podaj kwotę jeszcze raz:");
+                userAmount = Console.ReadLine();
+            }
+            BorrowerMenager.PartDeptCancelation(name, amountInDecimal);
+            
         }
 
         public void ListAllBorrower()
@@ -60,6 +78,7 @@ namespace Deptor
                 Console.WriteLine("add - dodawanie dłużnika");
                 Console.WriteLine("del - usuwanie dłużnika");
                 Console.WriteLine("list - wypisywanie listy dłużników");
+                Console.WriteLine("partcancel - anulowanie części długu");
                 Console.WriteLine("exit - wyjście z programu");
 
 
@@ -76,6 +95,9 @@ namespace Deptor
                         break;
                     case "list":
                         ListAllBorrower();
+                        break;
+                    case "partcancel":
+                        PartDeptCancetation();
                         break;
 
 

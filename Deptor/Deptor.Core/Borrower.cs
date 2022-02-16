@@ -11,5 +11,10 @@
             return Name+";"+Amount.ToString();
         }
 
+        public void PartDeptCancelation(decimal cancelateAmount)
+        {
+            Amount = Amount - cancelateAmount;
+        }
+
     }
 }

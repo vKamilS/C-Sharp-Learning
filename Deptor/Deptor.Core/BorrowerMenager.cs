@@ -41,11 +41,18 @@
 
             if (shouldSaveToFile)
             {
-                File.WriteAllLines(FileName, new List<string> { borrower.ToString() });
+                var borrowerToSave = new List<string>();
+
+                foreach (var deptor in Borrowers)
+                {
+                    borrowerToSave.Add(deptor.ToString());
+                }
+                File.Delete(FileName);
+                File.WriteAllLines(FileName, borrowerToSave);
             }
               
         }
-
+        
         public void DeleteBorrower(string name, bool shouldSaveToFile = true)
         {
             foreach (var borrower in Borrowers)
@@ -69,6 +76,49 @@
                 File.WriteAllLines(FileName, borrowerToSave);
             }
 
+        }
+
+        public void PartDeptCancelation(string name, decimal amount, bool shouldSaveToFile = true)
+        {
+            if (!Borrowers.Exists(borrower => borrower.Name == name))
+            {
+                Console.WriteLine("Nie ma takiego dłużnika na liście.");
+            }
+            else
+            {
+                foreach (var borrower in Borrowers)   
+                {
+                    if (borrower.Name == name)
+                    {
+                        borrower.PartDeptCancelation(amount);
+                        if (borrower.Amount == 0)
+                        {
+                            DeleteBorrower(name);
+                            Console.WriteLine("Dłużnik spłacił cały swój dług i został usunięty z listy dłużników.");
+                        }
+                        else if (borrower.Amount > 0)
+                        {
+                            Console.WriteLine($"Dłużnik {borrower.Name} ma jeszcze do spłacenia {borrower.Amount} zł");
+                            if (shouldSaveToFile)
+                            {
+                                var borrowerToSave = new List<string>();
+
+                                foreach (var deptor in Borrowers)
+                                {
+                                    borrowerToSave.Add(deptor.ToString());
+                                }
+                                File.Delete(FileName);
+                                File.WriteAllLines(FileName, borrowerToSave);
+                            }
+                        }
+                        else
+                        {
+                            var excessPayment = -(borrower.Amount - amount);
+                            Console.WriteLine($"Dłużnik oddał za dużo. należy mu zwrócić {excessPayment} zł");
+                        }
+                    }
+                }
+            }
         }
 
         public List<string> ListBorrowes()
